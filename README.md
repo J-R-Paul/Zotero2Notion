@@ -21,6 +21,8 @@ Fill in the details in the helper.py file.
 
 ### Notion API
 
+Follow steps 1 and 2 in : https://developers.notion.com/docs/getting-started.
 
+Fill in details in the hellper.py file.
 
-### Setting up a Notion Data-base
+### Setting up a Notion Database
