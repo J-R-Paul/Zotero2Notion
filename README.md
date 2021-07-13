@@ -3,8 +3,6 @@ This script takes advantage of the new Notion API to sync a notion database to a
 
 ## Set-up
 ### Python
-Python 3.7.
-
 Packages:
 
 - json
